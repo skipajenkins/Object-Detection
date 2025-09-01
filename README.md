@@ -41,10 +41,6 @@ python main.py
 
 ---
 
-## 🎉 Watch as objects are detected and labeled in real-time!
-
----
-
 ## 💡 Usage Tips
 - 🎥 Use your webcam or a video file for live detection
 
